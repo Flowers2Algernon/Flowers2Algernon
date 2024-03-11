@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW)" width="100"/>
+</div>
+
 - 👋 Hi, I’m @Flowers2Algernon
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java
