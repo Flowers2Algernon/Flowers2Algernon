@@ -66,10 +66,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Instanceof, this, super, abstract, static and so on key words in Java background and explanation.](https://flowers2algernon.blogspot.com/2024/03/instanceof-this-super-abstract-static.html)
 - [2023年终感悟及2024年年初展望--【多灾多难的2023】及【追逐新生的2024】](https://flowers2algernon.blogspot.com/2024/01/20232024-20232024.html)
 - [2022总结及2023展望--【兜兜转转的2022】及【充满希望的2023】](https://flowers2algernon.blogspot.com/2022/12/20222023-20222023.html)
 - [如何有效论证-2](https://flowers2algernon.blogspot.com/2022/12/2.html)
-- [如何有效论证-1](https://flowers2algernon.blogspot.com/2021/08/blog-post_24.html)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
