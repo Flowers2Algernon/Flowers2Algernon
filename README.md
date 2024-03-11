@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY255OWRpMGl2cW1kYjFmcmE4dzMzbGwzMGdmeGlidWRyZ2tiNmJ3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="200" height="100" />
 <div id="badges">
-  <a href="www.linkedin.com/in/jinhong-zhu">
+  <a href="[www.linkedin.com/in/jinhong-zhu](https://www.linkedin.com/in/jinhong-z-ba6349154/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://leetcode.com/flowersToAlgernon/">
@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jinhong-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/jinhong-zhu)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jinhong-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinhong-z-ba6349154/)
 
 <!---
 Flowers2Algernon/Flowers2Algernon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
