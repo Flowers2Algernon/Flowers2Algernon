@@ -7,8 +7,8 @@
   <a href="https://leetcode.com/flowersToAlgernon/">
     <img src="https://img.shields.io/badge/LeetCode-red?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://flowers2algernon.blogspot.com">
+    <img src="https://img.shields.io/badge/Blog-yellow?style=for-the-badge&logo=Blog&logoColor=white" alt="Blog Badge"/>
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=Flowers2Algernon&style=flat-square&color=blue" alt=""/>
