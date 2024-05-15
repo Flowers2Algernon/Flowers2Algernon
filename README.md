@@ -66,12 +66,28 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 ## 📈 Github stats
+<!-- ![](./profile-3d-contrib/3d-contrib-profile-day.svg) -->
 
-![](./profile-3d-contrib/3d-contrib-profile-day.svg)
+
+<a href="https://github.com/yoshi389111/github-profile-3d-contrib">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Flowers2Algernon/Flowers2Algernon/blob/main/profile-3d-contrib/profile-night-view.svg">
+  <img alt="Jinhong's GitHub Profile 3D Contrib" src="https://raw.githubusercontent.com/Flowers2Algernon
+/Flowers2Algernon/blob/master/profile-3d-contrib/profile-green.svg">
+</picture>
+</a>
 
 
-[![Jinhong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Flowers2Algernon&bg_color=ffffff&color=007bff&line=47a042&point=255322&hide_border=true
-)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Flowers2Algernon&bg_color=00000f&color=007bff&line=fac539&point=FFFFFF&hide_border=true">
+  <img alt="Jinhong's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Flowers2Algernon&bg_color=ffffff&color=007bff&line=47a042&point=255322&hide_border=true">
+</picture>
+</a>
+<!-- [![Jinhong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Flowers2Algernon&bg_color=ffffff&color=007bff&line=47a042&point=255322&hide_border=true
+)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
 
 
 
