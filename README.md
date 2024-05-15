@@ -72,8 +72,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Flowers2Algernon/Flowers2Algernon/blob/main/profile-3d-contrib/profile-night-view.svg">
-  <img alt="Jinhong's GitHub Profile 3D Contrib" src="https://github.com/Flowers2Algernon
-/Flowers2Algernon/blob/main/profile-3d-contrib/3d-contrib-profile-day.svg">
+  <img alt="Jinhong's GitHub Profile 3D Contrib" src="./profile-3d-contrib/3d-contrib-profile-day.svg">
 </picture>
 </a>
 
@@ -96,8 +95,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <a href="https://github.com/Flowers2Algernon/github-status">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Flowers2Algernon/github-status/blob/master/generated/overview.svg#gh-dark-mode-only">
-  <img alt="Jinhong's github-stats" src="https://github.com/Flowers2Algernon/github-status/blob/master/generated/overview.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Flowers2Algernon/github-status/blob/main/generated/overview.svg#gh-dark-mode-only">
+  <img alt="Jinhong's github-stats" src="https://github.com/Flowers2Algernon/github-status/blob/main/generated/overview.svg">
 </picture>
 </a>
 
