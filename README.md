@@ -1,5 +1,18 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY255OWRpMGl2cW1kYjFmcmE4dzMzbGwzMGdmeGlidWRyZ2tiNmJ3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif" width="200" height="100" />
+  <h3 align="center">
+  Welcome to Jinhong's profile!
+  <img src="https://raw.githubusercontent.com/danielcshn/danielcshn/master/icons/wave.gif" width="30" height="30">
+</h3>
+
+<div align="center">
+
+<!--- https://readme-typing-svg.herokuapp.com --->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+sans&weight=500&size=24&duration=2500&pause=1000&color=007BFF&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Full+Stack+Developer;DevOps+Cloud+Engineer+;Machine+Learning+Engineer)](https://git.io/typing-svg)
+ 
+![](https://komarev.com/ghpvc/?username=Flowers2Algernon&color=007bff&label=Profile+Views&style=for-the-badge)
+ 
+</div>
+  
 <div id="badges">
   <a href="https://www.linkedin.com/in/jinhong-zhu">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -11,13 +24,8 @@
     <img src="https://img.shields.io/badge/Blog-yellow?style=for-the-badge&logo=Blog&logoColor=white" alt="Blog Badge"/>
   </a>
 </div>
-  <img src="https://komarev.com/ghpvc/?username=Flowers2Algernon&style=flat-square&color=blue" alt=""/>
-<h1>
-        hey there 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="200"/>
+
+
 </div>
 
 ---
@@ -55,15 +63,38 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
+
+
+## 📈 Github stats
+
 ![](./profile-3d-contrib/3d-contrib-profile-day.svg)
----
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Flowers2Algernon&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flowers2Algernon)](https://github.com/anuraghazra/github-readme-stats)
+[![Jinhong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Flowers2Algernon&bg_color=ffffff&color=007bff&line=47a042&point=255322&hide_border=true
+)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
+
+
+<!-- https://github.com/Flowers2Algernon/github-stats -->
+<div align="center">
+
+<a href="https://github.com/Flowers2Algernon/github-status">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Flowers2Algernon/github-status/blob/master/generated/overview.svg#gh-dark-mode-only">
+  <img alt="Jinhong's github-stats" src="https://github.com/Flowers2Algernon/github-status/blob/master/generated/overview.svg">
+</picture>
+</a>
+
+<a href="https://github.com/Flowers2Algernon/github-status">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Flowers2Algernon/github-status/blob/master/generated/languages.svg#gh-dark-mode-only">
+  <img alt="Jinhong's github-stats" src="https://github.com/Flowers2Algernon/github-status/blob/master/generated/languages.svg">
+</picture>
+</a>
+
+</div>
+
+
 
 ### :writing_hand: Blog Posts :
 
