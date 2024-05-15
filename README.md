@@ -73,7 +73,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Flowers2Algernon/Flowers2Algernon/blob/main/profile-3d-contrib/profile-night-view.svg">
   <img alt="Jinhong's GitHub Profile 3D Contrib" src="https://github.com/Flowers2Algernon
-/Flowers2Algernon/blob/master/profile-3d-contrib/3d-contrib-profile-day.svg">
+/Flowers2Algernon/blob/main/profile-3d-contrib/3d-contrib-profile-day.svg">
 </picture>
 </a>
 
