@@ -90,8 +90,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <div align="right">
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Flowers2Algernon&theme=whatsapp-dark2&hide_border=true&card_width=900.svg#gh-dark-mode-only">
-  <img alt="Jinhong's github-streak" src="https://github-readme-streak-stats.herokuapp.com?user=Flowers2Algernon&hide_border=true&theme=whatsapp-light2&card_width=900.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Flowers2Algernon&theme=java-dark&hide_border=true&card_width=1000.svg#gh-dark-mode-only">
+  <img alt="Jinhong's github-streak" src="https://github-readme-streak-stats.herokuapp.com?user=Flowers2Algernon&hide_border=true&theme=whatsapp-light2&card_width=1000.svg">
 </picture>
 </a>
 </div>
