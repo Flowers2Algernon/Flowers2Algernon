@@ -87,8 +87,14 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <!-- [![Jinhong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Flowers2Algernon&bg_color=ffffff&color=007bff&line=47a042&point=255322&hide_border=true
 )](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
-
-
+<div align="right">
+<a href="https://github.com/denvercoder1/github-readme-streak-stats">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Flowers2Algernon&theme=whatsapp-dark2&hide_border=true&card_width=900.svg#gh-dark-mode-only">
+  <img alt="Jinhong's github-streak" src="https://github-readme-streak-stats.herokuapp.com?user=Flowers2Algernon&hide_border=true&theme=whatsapp-light2&card_width=900.svg">
+</picture>
+</a>
+</div>
 
 <!-- https://github.com/Flowers2Algernon/github-stats -->
 <div align="center">
@@ -106,6 +112,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img alt="Jinhong's github-stats" src="https://github.com/Flowers2Algernon/github-status/blob/master/generated/languages.svg">
 </picture>
 </a>
+
+
+
 
 </div>
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
