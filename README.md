@@ -123,10 +123,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Pass By Value Summarize](https://flowers2algernon.blogspot.com/2024/04/java-pass-by-value-summarize.html)
-- [Hackers and Painters: Book Summary](https://flowers2algernon.blogspot.com/2024/03/hackers-and-painters-book-summary.html)
-- [Key words in Java: what are their backgrounds and meanings.](https://flowers2algernon.blogspot.com/2024/03/instanceof-this-super-abstract-static.html)
-- [2023年终感悟及2024年年初展望--【多灾多难的2023】及【追逐新生的2024】](https://flowers2algernon.blogspot.com/2024/01/20232024-20232024.html)
+- [Java value pass](https://flowers2algernon.github.io/posts/Java-Value-Pass/)
+- [How to effectively argue](https://flowers2algernon.github.io/posts/How-to-Effectively-Argue/)
+- [2023总结及2024展望~[多灾多难的2023]及[追逐新生的2024]](https://flowers2algernon.github.io/posts/2023%E6%80%BB%E7%BB%93%E5%8F%8A2024%E5%B1%95%E6%9C%9B~-%E5%A4%9A%E7%81%BE%E5%A4%9A%E9%9A%BE%E7%9A%842023-%E5%8F%8A-%E8%BF%BD%E9%80%90%E6%96%B0%E7%94%9F%E7%9A%842024/)
+- [2022总结及2023展望~[兜兜转转的2022]及[充满希望的2023]](https://flowers2algernon.github.io/posts/2022%E6%80%BB%E7%BB%93%E5%8F%8A2023%E5%B1%95%E6%9C%9B~-%E5%85%9C%E5%85%9C%E8%BD%AC%E8%BD%AC%E7%9A%842022-%E5%8F%8A-%E5%85%85%E6%BB%A1%E5%B8%8C%E6%9C%9B%E7%9A%842023/)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
