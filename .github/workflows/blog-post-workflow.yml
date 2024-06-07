@@ -14,5 +14,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://flowers2algernon.blogspot.com/feeds/posts/default?alt=rss"
+          feed_list: "https://flowers2algernon.github.io/feed.xml"
 
