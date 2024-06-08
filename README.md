@@ -20,7 +20,7 @@
   <a href="https://leetcode.com/flowersToAlgernon/">
     <img src="https://img.shields.io/badge/LeetCode-red?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
   </a>
-  <a href="https://flowers2algernon.blogspot.com">
+  <a href="https://flowers2algernon.github.io/">
     <img src="https://img.shields.io/badge/Blog-yellow?style=for-the-badge&logo=Blog&logoColor=white" alt="Blog Badge"/>
   </a>
 </div>
