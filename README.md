@@ -123,10 +123,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Linked list basic](https://flowers2algernon.github.io/posts/Linked-List-Basic/)
 - [Array advanced method](https://flowers2algernon.github.io/posts/Array-Advanced-Method/)
 - [Array basic](https://flowers2algernon.github.io/posts/Array-Basic/)
 - [Java value pass](https://flowers2algernon.github.io/posts/Java-Value-Pass/)
-- [How to effectively argue](https://flowers2algernon.github.io/posts/How-to-Effectively-Argue/)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
