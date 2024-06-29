@@ -123,7 +123,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
-- [The tcp Ip five Layer network model](https://flowers2algernon.github.io/posts/The-TCP-IP-Five-Layer-Network-Model/)
+- [Network model](https://flowers2algernon.github.io/posts/Network-Model/)
 - [Hashmap basic](https://flowers2algernon.github.io/posts/HashMap-Basic/)
 - [Linked list advanced](https://flowers2algernon.github.io/posts/Linked-List-Advanced/)
 - [Linked list basic](https://flowers2algernon.github.io/posts/Linked-List-Basic/)
