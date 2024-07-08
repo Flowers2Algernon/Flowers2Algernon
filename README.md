@@ -123,10 +123,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [Network service](https://flowers2algernon.github.io/posts/Network-Service/)
+- [Front basic](https://flowers2algernon.github.io/posts/Front-Basic/)
 - [Hashmap advanced](https://flowers2algernon.github.io/posts/HashMap-Advanced/)
 - [Network model](https://flowers2algernon.github.io/posts/Network-Model/)
-- [Hashmap basic](https://flowers2algernon.github.io/posts/HashMap-Basic/)
-- [Linked list advanced](https://flowers2algernon.github.io/posts/Linked-List-Advanced/)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
