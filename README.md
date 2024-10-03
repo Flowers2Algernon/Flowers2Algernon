@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h3 align="center">
-  Welcome to Jimmy's profile!
+  Welcome to Jinhong's profile!
   <img src="https://raw.githubusercontent.com/danielcshn/danielcshn/master/icons/wave.gif" width="30" height="30">
 </h3>
 
