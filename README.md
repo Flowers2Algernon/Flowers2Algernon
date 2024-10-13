@@ -7,7 +7,7 @@
 <div align="center">
 
 <!--- https://readme-typing-svg.herokuapp.com --->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Work+sans&weight=500&size=24&duration=2500&pause=1000&color=007BFF&center=true&vCenter=true&random=false&width=435&lines=Software+Engineer;Full+Stack+Developer;DevOps+Cloud+Engineer+;Machine+Learning+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Cloud+Ops+Engineer)](https://git.io/typing-svg)
  
 ![](https://komarev.com/ghpvc/?username=Flowers2Algernon&color=007bff&label=Profile+Views&style=for-the-badge)
  
