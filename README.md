@@ -39,7 +39,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I love riding and trying new things.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jinhong-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinhong-zhu)
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-zjhong6666@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zjhong6666@gmail.com)
 
 ---
 
