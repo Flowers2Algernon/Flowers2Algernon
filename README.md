@@ -49,7 +49,7 @@ I am a passionate Full Stack Developer from China with a focus on building robus
 <a href="http://www.unirankhub.com/" target="_blank"><img src="https://www.jinthinks.com/unirankhub-1.png" alt="UniRankHub" style="max-width:100%;"></a>
 <p>A university ranking comparison platform with custom weighting algorithms, aggregating data from multiple official sources.</p>
 <p>
-<a href="http://www.unirankhub.com/" target="_blank"><strong>Live Demo</strong></a> | <a href="https://github.com/Flowers2Algernon" target="_blank"><strong>View on GitHub</strong></a>
+<a href="http://www.unirankhub.com/" target="_blank"><strong>Live Demo</strong></a>
 </p>
 <p><em>React, Next.js, Supabase</em></p>
 </div>
