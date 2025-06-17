@@ -60,7 +60,7 @@ I am a passionate Full Stack Developer from China with a focus on building robus
 <a href="http://www.safesend.me/" target="_blank"><img src="https://www.jinthinks.com/secureshare.png" alt="SecureShare AI" style="max-width:100%;"></a>
 <p>An end-to-end encrypted file sharing application using a hybrid RSA/AES encryption scheme.</p>
 <p>
-<a href="http.safesend.me/" target="_blank"><strong>Live Demo</strong></a> | <a href="https://github.com/Flowers2Algernon/Secure-File-Transfer" target="_blank"><strong>View on GitHub</strong></a>
+<a href="http://www.safesend.me/" target="_blank"><strong>Live Demo</strong></a> | <a href="https://github.com/Flowers2Algernon/Secure-File-Transfer" target="_blank"><strong>View on GitHub</strong></a>
 </p>
 <p><em>Python, Cryptography, RSA, AES</em></p>
 </div>
