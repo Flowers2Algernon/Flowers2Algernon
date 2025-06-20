@@ -106,7 +106,7 @@ I am a passionate Full Stack Developer from China with a focus on building robus
     </td>
     <td>
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/supabase/supabase-original.svg" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg?raw=true" title="Supabase" alt="Supabase" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     </td>
   </tr>
