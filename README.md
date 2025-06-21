@@ -115,7 +115,7 @@ I am a passionate Full Stack Developer from China with a focus on building robus
       <strong>Cloud & DevOps</strong>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/railway/railway-original.svg" title="Railway" alt="Railway" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/railway/railway-original.svg?raw=true" title="Railway" alt="Railway" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     </td>
