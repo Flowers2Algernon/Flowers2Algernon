@@ -35,7 +35,7 @@ I am a passionate Full Stack Developer from China with a focus on building robus
 - 🔭 I’m currently working as a Software Engineer, contributing to both frontend and backend development.
 - 🌱 I’m always learning and exploring new technologies, and enjoy writing technical content.
 - ⚡️ Outside of coding, I love riding and embracing new challenges.
-- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-zjhong6666@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zjhong6666@gmail.com)
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zjhong6666@gmail.com)
 
 ---
 
