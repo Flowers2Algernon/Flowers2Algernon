@@ -173,7 +173,8 @@ I am a passionate Full Stack Developer from China with a focus on building robus
 </details>
 
 
-### :writing_hand: Blog Posts :
+<details>
+<summary>:writing_hand: Blog Posts</summary>
 
 <!-- BLOG-POST-LIST:START -->
 - [Database connection issues when deploying c# to railway](https://flowers2algernon.github.io/posts/Database-Connection-Issues-When-Deploying-C-to-Railway/)
@@ -181,6 +182,7 @@ I am a passionate Full Stack Developer from China with a focus on building robus
 - [Javascript and react basic](https://flowers2algernon.github.io/posts/JavaScript-and-React-Basic/)
 - [Network service](https://flowers2algernon.github.io/posts/Network-Service/)
 <!-- BLOG-POST-LIST:END -->
+</details>
 
 <!---
 Flowers2Algernon/Flowers2Algernon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
