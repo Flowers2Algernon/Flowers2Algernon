@@ -45,11 +45,12 @@ Specialized in healthcare analytics platforms & system architecture
 <h3 align="center">UniRankHub</h3>
 <div align="center">
 <a href="http://www.unirankhub.com/" target="_blank"><img src="https://www.jinthinks.com/unirankhub-1.png" alt="UniRankHub" style="max-width:100%;"></a>
-<p>A university ranking comparison platform with custom weighting algorithms, aggregating data from multiple sources.</p>
+<p><b>Problem:</b> The main challenge was to aggregate data from different sources with varying formats and structures. It was also important to provide a flexible and intuitive interface for users to create their own custom rankings based on their preferences.</p>
+<p><b>Solution:</b> I developed the frontend of the application using React and the backend using Node.js and Express. I created a data pipeline to collect and normalize the ranking data from various sources. The custom ranking feature was implemented using a weighted scoring algorithm that allows users to assign importance to different ranking criteria.</p>
 <p>
 <a href="http://www.unirankhub.com/" target="_blank"><strong>Live Demo</strong></a>
 </p>
-<p><em>React, Next.js, Supabase</em></p>
+<p><em>#next.js #React #Supabase #Data Aggregation</em></p>
 </div>
 </td>
 <td width="50%" valign="top">
