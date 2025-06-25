@@ -57,11 +57,12 @@ Specialized in healthcare analytics platforms & system architecture
 <h3 align="center">SecureShare AI</h3>
 <div align="center">
 <a href="http://www.safesend.me/" target="_blank"><img src="https://www.jinthinks.com/secureshare.png" alt="SecureShare AI" style="max-width:100%;"></a>
-<p>An end-to-end encrypted file sharing application using a hybrid RSA/AES encryption scheme.</p>
+<p><b>Problem:</b> The main challenge was to implement the cryptographic protocols correctly and efficiently. This involved generating RSA key pairs, encrypting and decrypting AES keys, and handling large files without consuming excessive memory.</p>
+<p><b>Solution:</b> I developed the application using Python with the Tkinter library for the GUI. The cryptography was implemented using the `cryptography` library. The application allows users to generate key pairs, encrypt files with a recipient's public key, and decrypt files with their own private key.</p>
 <p>
 <a href="http://www.safesend.me/" target="_blank"><strong>Live Demo</strong></a> | <a href="https://github.com/Flowers2Algernon/Secure-File-Transfer" target="_blank"><strong>View on GitHub</strong></a>
 </p>
-<p><em>Python, Cryptography, RSA, AES</em></p>
+<p><em>#Python #Django #Cryptography #AI Monitor #E2EE</em></p>
 </div>
 </td>
 </tr>
