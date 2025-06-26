@@ -156,15 +156,15 @@ I am a passionate Full Stack Developer from China with a focus on building robus
 
 <a href="https://github.com/Flowers2Algernon/github-status">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Flowers2Algernon/github-status/blob/master/generated/overview.svg#gh-dark-mode-only">
-  <img alt="Jinhong's github-stats" src="https://github.com/Flowers2Algernon/github-status/blob/master/generated/overview.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowers2Algernon/github-status/master/generated/overview.svg#gh-dark-mode-only">
+  <img alt="Jinhong's github-stats" src="https://raw.githubusercontent.com/Flowers2Algernon/github-status/master/generated/overview.svg">
 </picture>
 </a>
 
 <a href="https://github.com/Flowers2Algernon/github-status">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Flowers2Algernon/github-status/blob/master/generated/languages.svg#gh-dark-mode-only">
-  <img alt="Jinhong's github-stats" src="https://github.com/Flowers2Algernon/github-status/blob/master/generated/languages.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flowers2Algernon/github-status/master/generated/languages.svg#gh-dark-mode-only">
+  <img alt="Jinhong's github-stats" src="https://raw.githubusercontent.com/Flowers2Algernon/github-status/master/generated/languages.svg">
 </picture>
 </a>
 </div>
