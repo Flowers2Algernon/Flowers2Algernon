@@ -70,6 +70,13 @@ Specialized in healthcare analytics platforms & system architecture
 
 ---
 
+### 🛠️ Skills
+
+- **Cloud Services:** AWS, Azure, GCP
+- **Backend:** Python, C#/.NET
+- **Frontend:** React
+
+
 
 
 
