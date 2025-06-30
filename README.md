@@ -42,17 +42,12 @@ Specialized in healthcare analytics platforms & system architecture
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">UniRankHub</h3>
-<div align="center">
 <a href="http://www.unirankhub.com/" target="_blank"><img src="https://www.jinthinks.com/unirankhub-1.png" alt="UniRankHub" style="max-width:100%;"></a>
-<p><b>Project Overview:</b> UniRankHub aggregates ranking data from 4 major sources (QS, Times, Shanghai, US News) covering 1,500+ universities worldwide. Users can create custom rankings by adjusting weights across 12 different criteria (research output, teaching quality, international outlook, etc.).</p>
-<p><b>The Technical Challenge:</b><br>- <b>Data Integration:</b> Each ranking source uses different methodologies and data formats - QS uses 6 indicators while Shanghai uses 6 different ones<br>- <b>Real-time Processing:</b> Needed to normalize and rank 1,500+ universities across multiple dimensions without performance degradation<br>- <b>Algorithm Design:</b> Creating a fair weighting system that produces meaningful results regardless of user's weight distribution</p>
-<p><b>My Solution & Results:</b><br>- <b>Data Pipeline:</b> Built automated scrapers + ETL pipeline processing 6,000+ data points monthly<br>- <b>Weighted Algorithm:</b> Implemented min-max normalization + weighted harmonic mean for ranking stability<br>- <b>Performance:</b> React frontend with optimized queries - renders 1,500 university rankings in <2 seconds<br>- <b>Impact:</b> Currently serving 200+ active users making 1,000+ custom ranking queries per month<br>- <b>Code Quality:</b> 95% test coverage, deployed on Vercel with 99.9% uptime</p>
-<p><b>Tech Stack:</b> React, Next.js, Supabase (PostgreSQL), Vercel deployment</p>
-<p>
-<a href="http://www.unirankhub.com/" target="_blank"><strong>Live Demo</strong></a>
+<p align="center">
+  <strong><a href="http://www.unirankhub.com/">UniRankHub</a></strong><br>
+  <em>University ranking platform aggregating 4 major sources • 200+ active users</em><br>
+  <code>React</code> <code>Next.js</code> <code>Supabase</code>
 </p>
-</div>
 </td>
 <td width="50%" valign="top">
 <h3 align="center">SecureShare AI</h3>
