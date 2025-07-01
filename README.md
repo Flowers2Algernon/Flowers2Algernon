@@ -50,16 +50,12 @@ Specialized in healthcare analytics platforms & system architecture
 </p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">SecureShare AI</h3>
-<div align="center">
 <a href="http://www.safesend.me/" target="_blank"><img src="https://www.jinthinks.com/secureshare.png" alt="SecureShare AI" style="max-width:100%;"></a>
-<p><b>Problem Solved:</b><br>Current file sharing solutions either lack encryption (Dropbox) or are too complex for non-technical users (PGP). Need hybrid encryption that's both secure and user-friendly.</p>
-<p><b>Technical Implementation:</b><br>- <b>Encryption:</b> RSA-2048 for key exchange + AES-256-CBC for file encryption<br>- <b>Performance:</b> Optimized for files up to 100MB with chunked processing<br>- <b>UX:</b> 3-click workflow - generate keys, encrypt file, share link</p>
-<p><b>Measurable Results:</b><br>- <b>Security:</b> Successfully passed penetration testing by university security team<br>- <b>Performance:</b> Encrypts 50MB files in ~3 seconds on standard hardware<br>- <b>Adoption:</b> 50+ downloads, 0 security incidents reported<br>- <b>Code Quality:</b> 100% test coverage for crypto functions</p>
-<p>
-<a href="http://www.safesend.me/" target="_blank"><strong>Live Demo</strong></a> | <a href="https://github.com/Flowers2Algernon/Secure-File-Transfer" target="_blank"><strong>View on GitHub</strong></a>
+<p align="center">
+  <strong><a href="http://www.safesend.me/">SecureShare AI</a></strong><br>
+  <em>End-to-end encrypted file sharing with RSA-2048 + AES-256</em><br>
+  <code>Python</code> <code>Cryptography</code> <code>Django</code>
 </p>
-</div>
 </td>
 </tr>
 </table>
