@@ -123,10 +123,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### :writing_hand: Blog Posts :
 
 <!-- BLOG-POST-LIST:START -->
+- [2025 年中总结及年尾展望](https://flowers2algernon.github.io/posts/2025-%E5%B9%B4%E4%B8%AD%E6%80%BB%E7%BB%93%E5%8F%8A%E5%B9%B4%E5%B0%BE%E5%B1%95%E6%9C%9B/)
 - [Javascript and react basic](https://flowers2algernon.github.io/posts/JavaScript-and-React-Basic/)
 - [Network service](https://flowers2algernon.github.io/posts/Network-Service/)
 - [Front basic](https://flowers2algernon.github.io/posts/Front-Basic/)
-- [Hashmap advanced](https://flowers2algernon.github.io/posts/HashMap-Advanced/)
 <!-- BLOG-POST-LIST:END -->
 
 <!---
