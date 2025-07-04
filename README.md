@@ -30,10 +30,10 @@
 <div id="header" align="left">
   
 ### :technologist: About Me
-Civil Engineer → Software Engineer
-CS @ Curtin University & Georgia Tech
-Specialized in healthcare analytics platforms & system architecture
-3+ years project management experience bringing unique systems thinking to software development
+- Civil Engineer → Software Engineer
+- CS @ Curtin University & Georgia Tech
+- Specialized in healthcare analytics platforms & system architecture
+- 3+ years project management experience bringing unique systems thinking to software development
 
 ---
 
