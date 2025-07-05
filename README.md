@@ -42,7 +42,6 @@
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="50%" valign="top">
-<a href="http://www.unirankhub.com/" target="_blank"><img src="https://www.jinthinks.com/unirankhub-1.png" alt="UniRankHub" style="max-width:100%;"></a>
 <p align="center">
   <strong><a href="http://www.unirankhub.com/">UniRankHub</a></strong><br>
   <em>University ranking platform aggregating 4 major sources • 200+ active users</em><br>
