@@ -49,7 +49,6 @@
 </p>
 </td>
 <td width="50%" valign="top">
-<a href="http://www.safesend.me/" target="_blank"><img src="https://www.jinthinks.com/secureshare.png" alt="SecureShare AI" style="max-width:100%;"></a>
 <p align="center">
   <strong><a href="http://www.safesend.me/">SecureShare AI</a></strong><br>
   <em>End-to-end encrypted file sharing with RSA-2048 + AES-256</em><br>
