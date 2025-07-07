@@ -63,8 +63,9 @@
 ### 🛠️ Skills
 
 - **Cloud Services:** AWS, Azure, GCP
-- **Backend:** Python, C#/.NET
-- **Frontend:** React
+- **Backend:** Python, C#/.NET, Java/Spring, Node.js
+- **Frontend:** React, Next.js
+- **Database:** Supabase, SQL, Redis
 
 
 
