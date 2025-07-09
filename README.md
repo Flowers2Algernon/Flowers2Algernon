@@ -51,7 +51,7 @@
 <td width="50%" valign="top">
 <p align="center">
   <strong><a href="http://www.safesend.me/">SecureShare AI</a></strong><br>
-  <em>End-to-end encrypted file sharing with RSA-2048 + AES-256</em><br>
+  <em>End-to-end encrypted file sharing with RSA-2048<br>· AES-256</em><br>
   <code>Python</code> <code>Cryptography</code> <code>Django</code>
 </p>
 </td>
