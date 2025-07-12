@@ -50,7 +50,7 @@
 </td>
 <td width="50%" valign="top">
 <p align="center">
-  <strong><a href="http://www.safesend.me/">SecureShare AI</a></strong><br>
+  <strong><a href="http://www.safesend.me/">SecureShare AI</a></strong> `•` <a href="https://github.com/Flowers2Algernon/Secure-File-Transfer">GitHub</a><br>
   <em>End-to-end encrypted file sharing with RSA-2048 + AES-256 encryption</em><br>
   <code>Cryptography</code> <code>AI Monitoring</code>
 </p>
