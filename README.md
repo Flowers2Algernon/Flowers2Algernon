@@ -39,24 +39,17 @@
 
 ### 🚀 Featured Projects
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tr>
-<td width="50%" valign="top">
-<p align="center">
-  <strong><a href="http://www.unirankhub.com/">UniRankHub</a></strong><br>
-  <em>University ranking platform aggregating 4 major sources • 2000+ active users</em><br>
-  <code>React</code> <code>Next.js</code> <code>Supabase</code>
-</p>
-</td>
-<td width="50%" valign="top">
-<p align="center">
-  <strong><a href="http://www.safesend.me/">SecureShare AI</a></strong> `•` <a href="https://github.com/Flowers2Algernon/Secure-File-Transfer">GitHub</a><br>
-  <em>End-to-end encrypted file sharing with RSA-2048 + AES-256 encryption</em><br>
-  <code>Cryptography</code> <code>AI Monitoring</code>
-</p>
-</td>
-</tr>
-</table>
+**[UniRankHub](http://www.unirankhub.com/)**
+
+*University ranking platform aggregating 4 major sources • 2000+ active users*
+
+<code>React</code> <code>Next.js</code> <code>Supabase</code>
+
+**[SecureShare AI](http://www.safesend.me/)** `•` <a href="https://github.com/Flowers2Algernon/Secure-File-Transfer">GitHub</a>
+
+*End-to-end encrypted file sharing with RSA-2048 + AES-256 encryption*
+
+<code>Cryptography</code> <code>AI Monitoring</code>
 
 ---
 
