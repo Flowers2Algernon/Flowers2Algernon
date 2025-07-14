@@ -53,12 +53,10 @@
 
 ---
 
-### 🛠️ Skills
-
-- **Cloud Services:** AWS, Azure, GCP, Docker
-- **Backend:** Python/Django, C#/.NET, Java/Spring, Node.js
-- **Frontend:** React, Next.js
-- **Database:** Supabase, SQL, Redis, NoSQL
+### 🛠️ Core Skills
+   - **Backend:** C#/.NET, Python/Django, Java/Spring  
+   - **Frontend:** React, Next.js, JavaScript
+   - **Cloud & Data:** AWS, Supabase, PostgreSQL
 
 
 
