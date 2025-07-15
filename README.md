@@ -41,7 +41,7 @@
 
 **[UniRankHub](http://www.unirankhub.com/)**
 
-*University ranking platform aggregating 4 major sources • 2000+ active users*
+*Custom university ranking platform with weighted algorithm*
 
 <code>React</code> <code>Next.js</code> <code>Supabase</code>
 
