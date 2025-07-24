@@ -1,16 +1,7 @@
 <div id="header" align="center">
-  <h3 align="center">
-  Welcome to Jin's profile!
-  <img src="https://raw.githubusercontent.com/danielcshn/danielcshn/master/icons/wave.gif" width="30" height="30">
-</h3>
+  <h2>Software Engineer | Full Stack Developer</h2>
+  <p><em>Civil Engineering → Software Development</em></p>
 
-<div align="center">
-
-<!--- https://readme-typing-svg.herokuapp.com --->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Cloud+Ops+Engineer)](https://git.io/typing-svg)
- 
-</div>
-  
 <div id="badges">
   <a href="https://www.linkedin.com/in/jinhong-zhu">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
