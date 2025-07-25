@@ -30,17 +30,13 @@
 
 ### 🚀 Featured Projects
 
-**[UniRankHub](http://www.unirankhub.com/)**
+**[UniRankHub](http://www.unirankhub.com/)** • **[GitHub](https://github.com/Flowers2Algernon)**  
+*Custom university ranking platform with weighted scoring algorithm*  
+`React` `Next.js` `Supabase`
 
-*Custom university ranking platform with weighted scoring algorithm*
-
-<code>React</code> <code>Next.js</code> <code>Supabase</code>
-
-**[SecureShare AI](http://www.safesend.me/)** `•` <a href="https://github.com/Flowers2Algernon/Secure-File-Transfer">GitHub</a>
-
-*End-to-end encrypted file sharing with RSA-2048 + AES-256 encryption*
-
-<code>Cryptography</code> <code>AI Monitoring</code>
+**[SecureShare AI](http://www.safesend.me/)** • **[GitHub](https://github.com/Flowers2Algernon/Secure-File-Transfer)**  
+*End-to-end encrypted file sharing with RSA-2048 + AES-256*  
+`Python` `Django` `Cryptography`
 
 ---
 
