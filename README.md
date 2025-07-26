@@ -41,9 +41,9 @@
 ---
 
 ### 🛠️ Core Skills
-   - **Backend:** C#/.NET, Python/Django, Java/Spring  
-   - **Frontend:** React, Next.js, JavaScript
-   - **Cloud & Data:** AWS, Supabase, PostgreSQL
+- **Backend:** C#/.NET, Python/Django, Java/Spring  
+- **Frontend:** React, Next.js, JavaScript
+- **Cloud & Data:** AWS, Supabase, PostgreSQL
 
 
 
