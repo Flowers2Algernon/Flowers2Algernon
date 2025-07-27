@@ -1,21 +1,5 @@
-<div id="header" align="center">
-  <h2>Software Engineer | Full Stack Developer</h2>
-  <p><em>Civil Engineering → Software Development</em></p>
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/jinhong-zhu">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://leetcode.com/flowersToAlgernon/">
-    <img src="https://img.shields.io/badge/LeetCode-red?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode Badge"/>
-  </a>
-  <a href="https://flowers2algernon.github.io/">
-    <img src="https://img.shields.io/badge/Blog-yellow?style=for-the-badge&logo=Blog&logoColor=white" alt="Blog Badge"/>
-  </a>
-</div>
-
-
-</div>
+## 👋 Software Engineer | Full Stack Developer
+*Civil Engineer → Software Developer | CS @ Curtin & Georgia Tech*
 
 ---
 <div id="header" align="left">
