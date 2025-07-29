@@ -18,7 +18,7 @@
 *End-to-end encrypted file sharing with RSA-2048 + AES-256*  
 `Python` `Django` `Cryptography`
 
-**[UniRankHub](http://www.unirankhub.com/)** • **[GitHub](https://github.com/Flowers2Algernon)**  
+**[UniRankHub](http://www.unirankhub.com/)**  
 *Custom university ranking platform with weighted scoring algorithm*  
 `React` `Next.js` `Supabase`
 
