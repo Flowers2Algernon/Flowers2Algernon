@@ -5,10 +5,10 @@
 <div id="header" align="left">
   
 ### :technologist: About Me
-- Civil Engineer → Software Engineer
-- CS @ Curtin University & Georgia Tech
-- Specialized in healthcare analytics platforms & system architecture
-- 3+ years project management experience bringing unique systems thinking to software development
+- 3+ years civil engineering project management → software development
+- CS @ Curtin University & Georgia Tech (dual degree program)
+- Specialized in healthcare analytics platforms & secure system architecture  
+- Leading full-stack projects with real industry clients
 
 ---
 
