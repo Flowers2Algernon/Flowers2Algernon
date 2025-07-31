@@ -29,6 +29,14 @@
 - **Frontend:** React, Next.js, JavaScript
 - **Cloud & Data:** AWS, Supabase, PostgreSQL
 
+---
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jinhong-zhu) 
+[![Blog](https://img.shields.io/badge/Blog-FFA500?style=flat&logo=rss&logoColor=white)](https://flowers2algernon.github.io/)
+
+*Currently seeking software engineering opportunities*
+
 
 
 
