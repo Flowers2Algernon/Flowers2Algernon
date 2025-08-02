@@ -1,13 +1,11 @@
-## 👋 Software Engineer | Full Stack Developer
+## Hi, I'm Jin 👋
 *Civil Engineer → Software Developer | CS @ Curtin & Georgia Tech*
 
 ---
-<div id="header" align="left">
-  
-### :technologist: About Me
-- 3+ years civil engineering project management → software development
-- CS @ Curtin University & Georgia Tech (dual degree program)
-- Specialized in healthcare analytics platforms & secure system architecture  
+
+### :technologist: About Me  
+- 3+ years engineering project management → software development
+- Specialized in healthcare analytics & system architecture
 - Leading full-stack projects with real industry clients
 
 ---
