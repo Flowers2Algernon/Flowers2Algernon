@@ -31,6 +31,7 @@
 
 ### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jinhong-zhu) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zjhong6666@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-FFA500?style=flat&logo=rss&logoColor=white)](https://flowers2algernon.github.io/)
 
 *Open to software engineering opportunities and technical collaborations*
