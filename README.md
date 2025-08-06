@@ -1,5 +1,6 @@
 ## Hi, I'm Jin 👋
-*Software Engineer | CS @ Curtin & Georgia Tech*
+*Civil Engineer → Software engineer*  
+*CS @ Curtin & Georgia Tech*
 
 ---
 
