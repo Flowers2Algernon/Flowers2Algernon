@@ -44,7 +44,7 @@
 <td width="50%" valign="top">
 <p align="center">
   <strong><a href="http://www.unirankhub.com/">UniRankHub</a></strong><br>
-  <em>University ranking platform aggregating 4 major sources • 200+ active users</em><br>
+  <em>University ranking platform aggregating 4 major sources • 2000+ active users</em><br>
   <code>React</code> <code>Next.js</code> <code>Supabase</code>
 </p>
 </td>
@@ -62,10 +62,10 @@
 
 ### 🛠️ Skills
 
-- **Cloud Services:** AWS, Azure, GCP
-- **Backend:** Python, C#/.NET, Java/Spring, Node.js
+- **Cloud Services:** AWS, Azure, GCP, Docker
+- **Backend:** Python/Django, C#/.NET, Java/Spring, Node.js
 - **Frontend:** React, Next.js
-- **Database:** Supabase, SQL, Redis
+- **Database:** Supabase, SQL, Redis, NoSQL
 
 
 
