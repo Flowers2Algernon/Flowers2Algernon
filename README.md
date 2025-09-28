@@ -7,13 +7,13 @@
 <div align="center">
 
 <!--- https://readme-typing-svg.herokuapp.com --->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Cloud+Ops+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](httpshttps://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Cloud+Ops+Engineer)](https://git.io/typing-svg)
  
 ![](https://komarev.com/ghpvc/?username=Flowers2Algernon&color=007bff&label=Profile+Views&style=for-the-badge)
  
 </div>
   
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/jinhong-zhu">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -29,94 +29,73 @@
 </div>
 
 ---
-<div id="header" align="left">
-  
+
 ### :technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from China.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I love riding and trying new things.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jinhong-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jinhong-zhu)
+I'm a passionate Full Stack Developer from China <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, with a knack for building efficient and intuitive web applications.
+- :telescope: I’m currently working as a Software Engineer, focusing on both frontend and backend development.
+- 🌱 I have a growing interest in cloud-native technologies and technical content writing.
+- :zap: In my free time, I love riding, exploring new tech, and trying new things.
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+
+**Core Technologies:**
+<p>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+</p>
+
+**Familiar With:**
+<p>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/raw/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
+</p>
 
 ---
 
+## 📈 GitHub Stats
 
-## 📈 Github stats
-<!-- ![](./profile-3d-contrib/3d-contrib-profile-day.svg) -->
+<p align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Flowers2Algernon&theme=java-dark&hide_border=true">
+      <img alt="Jinhong's github-streak" src="https://github-readme-streak-stats.herokuapp.com?user=Flowers2Algernon&hide_border=true&theme=whatsapp-light2">
+    </picture>
+  </a>
+</p>
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+        <a href="https://github.com/Flowers2Algernon/github-status">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Flowers2Algernon/github-status/raw/master/generated/overview.svg#gh-dark-mode-only">
+              <img alt="Jinhong's github-stats" src="https://github.com/Flowers2Algernon/github-status/raw/master/generated/overview.svg">
+            </picture>
+        </a>
+    </td>
+    <td align="center" valign="top">
+        <a href="https://github.com/Flowers2Algernon/github-status">
+            <picture>
+              <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Flowers2Algernon/github-status/raw/master/generated/languages.svg#gh-dark-mode-only">
+              <img alt="Jinhong's github-stats" src="https://github.com/Flowers2Algernon/github-status/raw/master/generated/languages.svg">
+            </picture>
+        </a>
+    </td>
+  </tr>
+</table>
 
-
-<a href="https://github.com/yoshi389111/github-profile-3d-contrib">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Flowers2Algernon/Flowers2Algernon/blob/main/profile-3d-contrib/3d-contrib-profile-night.svg">
-  <img alt="Jinhong's GitHub Profile 3D Contrib" src="./profile-3d-contrib/3d-contrib-profile-day.svg">
-</picture>
-</a>
-
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Flowers2Algernon&bg_color=00000f&color=007bff&line=fac539&point=FFFFFF&hide_border=true">
-  <img alt="Jinhong's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Flowers2Algernon&bg_color=ffffff&color=007bff&line=47a042&point=255322&hide_border=true">
-</picture>
-</a>
-<!-- [![Jinhong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Flowers2Algernon&bg_color=ffffff&color=007bff&line=47a042&point=255322&hide_border=true
-)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-
-<div align="right">
-<a href="https://github.com/denvercoder1/github-readme-streak-stats">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=Flowers2Algernon&theme=java-dark&hide_border=true&card_width=1000.svg#gh-dark-mode-only">
-  <img alt="Jinhong's github-streak" src="https://github-readme-streak-stats.herokuapp.com?user=Flowers2Algernon&hide_border=true&theme=whatsapp-light2&card_width=1000.svg">
-</picture>
-</a>
-</div>
-
-<!-- https://github.com/Flowers2Algernon/github-stats -->
-<div align="center">
-
-<a href="https://github.com/Flowers2Algernon/github-status">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Flowers2Algernon/github-status/blob/master/generated/overview.svg#gh-dark-mode-only">
-  <img alt="Jinhong's github-stats" src="https://github.com/Flowers2Algernon/github-status/blob/master/generated/overview.svg">
-</picture>
-</a>
-
-<a href="https://github.com/Flowers2Algernon/github-status">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Flowers2Algernon/github-status/blob/master/generated/languages.svg#gh-dark-mode-only">
-  <img alt="Jinhong's github-stats" src="https://github.com/Flowers2Algernon/github-status/blob/master/generated/languages.svg">
-</picture>
-</a>
-
-
-
-
-</div>
 <b>Note:</b> Showed top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
