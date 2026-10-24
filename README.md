@@ -1,45 +1,51 @@
 ## Hi, I'm Jin 👋
-*Civil Engineer → Software engineer*  
-*CS @ Curtin & Georgia Tech*
 
----
+**Full-stack developer building web products for education and decision-making.**  
+Civil engineering background · CS @ Curtin & Georgia Tech
 
-### :technologist: About Me  
-- 3+ years engineering project management → software development
-- Specialized in healthcare analytics & system architecture
-- Leading full-stack projects with real industry clients
+I build tools that help people compare universities, prepare for language exams, and explore visa pathways. My current work focuses on product development with Next.js, React, TypeScript, and PostgreSQL, including authentication, content management, payments, and AI-assisted feedback.
 
----
+### Selected products
 
-### 🚀 Featured Projects
+Most of my current product repositories are private. Explore the public websites below; source code is not publicly available.
 
-**[SecureShare AI](http://www.safesend.me/)** • **[GitHub](https://github.com/Flowers2Algernon/Secure-File-Transfer)**  
-*End-to-end encrypted file sharing with RSA-2048 + AES-256*  
-`Python` `Django` `Cryptography`
+#### [Celmock](https://celmock.com)
+A CELPIP preparation platform with timed mock tests, skill-based practice, and AI feedback for writing and speaking.
 
-**[UniRankHub](http://www.unirankhub.com/)**  
-*Custom university ranking platform with weighted scoring algorithm*  
-`React` `Next.js` `Supabase`
+- Practice workflows covering listening, reading, writing, and speaking.
+- Feedback and review tools to help learners identify what to practise next.
+- Content management and membership workflows.
 
----
+`Next.js` `TypeScript` `Payload CMS` `PostgreSQL`
 
-### 🛠️ Core Skills
-- **Backend:** C#/.NET, Python/Django, Java/Spring  
-- **Frontend:** React, Next.js, JavaScript
-- **Cloud & Data:** AWS, Supabase, PostgreSQL
+#### [UniRankHub](https://unirankhub.com)
+A university comparison platform that brings QS, THE, US News, and ARWU rankings together.
 
----
+- Compare universities across ranking systems and explore ranking methodologies.
+- Adjust ranking criteria to reflect individual priorities.
+- Browse university profiles and build a shortlist.
 
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jinhong-zhu) 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:zjhong6666@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-FFA500?style=flat&logo=rss&logoColor=white)](https://flowers2algernon.github.io/)
+`Next.js` `React` `TypeScript` `Supabase`
 
-*Open to software engineering opportunities and technical collaborations*
+### In development
 
+| Project | Focus | Status |
+| --- | --- | --- |
+| **MET Practice Platform** | Michigan English Test preparation, timed mock tests, and AI-assisted speaking and writing feedback. | In development · Not publicly launched · Private source |
+| **VisaDuo** | Visa pathway discovery and comparison, with tools for organising application information. | In development · Not publicly launched · Private source |
 
+### What I work with
 
+- **Web:** TypeScript, JavaScript, React, Next.js
+- **Backend & data:** PostgreSQL, Supabase, Payload CMS
+- **Product workflows:** Authentication, Stripe payments, content administration, AI-assisted learning tools
+- **Additional experience:** C#/.NET, Python/Django, Java/Spring, AWS
 
+### Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/jinhong-zhu) · [Email](mailto:zjhong6666@gmail.com) · [Blog](https://flowers2algernon.github.io/)
+
+Open to software engineering opportunities and technical collaborations.
 
 <details>
 <summary>📈 My GitHub Stats</summary>
