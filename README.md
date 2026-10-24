@@ -102,8 +102,8 @@ Open to software engineering opportunities and technical collaborations.
 
 <!-- BLOG-POST-LIST:START -->
 - [2026 Year-End Reflection: Beyond the Degree, AI Leverage, and Reclaiming Attention](https://flowers2algernon.github.io/posts/2026-Year-End-Reflection/)
-- [Database connection issues when deploying c# to railway](https://flowers2algernon.github.io/posts/Database-Connection-Issues-When-Deploying-C-to-Railway/)
-- [2025 年中总结及年尾展望](https://flowers2algernon.github.io/posts/2025-%E5%B9%B4%E4%B8%AD%E6%80%BB%E7%BB%93%E5%8F%8A%E5%B9%B4%E5%B0%BE%E5%B1%95%E6%9C%9B/)
+- [Database Connection Issues When Deploying C# to Railway](https://flowers2algernon.github.io/posts/Database-Connection-Issues-When-Deploying-C-to-Railway/)
+- [2025 Mid-Year Review &amp; Second-Half Outlook &lpar;2025 年中总结及年尾展望&rpar;](https://flowers2algernon.github.io/posts/2025-%E5%B9%B4%E4%B8%AD%E6%80%BB%E7%BB%93%E5%8F%8A%E5%B9%B4%E5%B0%BE%E5%B1%95%E6%9C%9B/)
 - [Javascript and react basic](https://flowers2algernon.github.io/posts/JavaScript-and-React-Basic/)
 <!-- BLOG-POST-LIST:END -->
 </details>
