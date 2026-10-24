@@ -27,12 +27,15 @@ A university comparison platform that brings QS, THE, US News, and ARWU rankings
 
 `Next.js` `React` `TypeScript` `Supabase`
 
-### In development
+#### [VisaDuo](https://visaduo.com)
+**Live** · A visa pathway discovery and comparison platform, with tools for organising application information.
 
-| Project | Focus | Status |
-| --- | --- | --- |
-| **MET Practice Platform** | Michigan English Test preparation, timed mock tests, and AI-assisted speaking and writing feedback. | In development · Not publicly launched · Private source |
-| **VisaDuo** | Visa pathway discovery and comparison, with tools for organising application information. | In development · Not publicly launched · Private source |
+`Next.js` `React` `TypeScript` `Supabase`
+
+### Coming soon
+
+- **MET Practice Platform** — Michigan English Test preparation, timed mock tests, and AI-assisted speaking and writing feedback. Preparing for launch.
+- **SavourSeason** — Preparing for launch.
 
 ### What I work with
 
